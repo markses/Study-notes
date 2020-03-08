@@ -1,4 +1,4 @@
-![baidu](http://www.baidu.com/img/bdlogo.gif)
+![logo](https://github.com/markses/Study-notes/raw/master/img/logo.gif)
 =
 # Study-notes
 * 自我介绍<br>

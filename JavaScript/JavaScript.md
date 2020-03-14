@@ -7,17 +7,18 @@
 
   > ## JavaScript 四种输出
   >
-  > * 使用 **window.alert()** 弹出警告框
+  > * 使用 **window.alert()** 弹出警告框 <color> 
+  >
   > * 使用 **document.write()** 方法将内容写到 HTML 文档中
   > * 使用 **innerHTML** 写入到 HTML 元素
   > * 使用 **console.log()** 写入到浏览器的控制台    
-  
+
   ## JavaScript 数据类型  
-  
+
   * var用来申明变量
-  
+
   * 多种数据类型
-  
+
   * ```javascript
     var length = 16;                                  // Number 通过数字字面量赋值
     var points = x * 10;                              // Number 通过表达式字面量赋值
@@ -31,6 +32,8 @@
 * **引用数据类型**：对象(Object)、数组(Array)、函数(Function)
 
 * 不包含任何值的数据类型：null 、undefined  
+
+* 
 
 * null 和 undefined 的值相等，但类型不等
 

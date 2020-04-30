@@ -17,21 +17,22 @@
         <img src="https://img.shields.io/badge/hexo%20theme-indigo-green"></img>
     </a>
     <img src="https://img.shields.io/ansible/quality/Study-notes"></img>
+     <img src="https://img.shields.io/github/repo-size/markses/Study-notes"></img>
     <img src="https://img.shields.io/github/followers/YUbuntu0109.svg"></img>
-    <img src="https://img.shields.io/github/stars/YUbuntu0109/YUbuntu0109.github.io.svg"></img>
-    <img src="https://img.shields.io/github/forks/YUbuntu0109/YUbuntu0109.github.io.svg"></img>
-    <img src="https://img.shields.io/github/watchers/YUbuntu0109/YUbuntu0109.github.io.svg"></img>
-    <img src="https://img.shields.io/github/license/YUbuntu0109/YUbuntu0109.github.io.svg"></img>
+    <img src="https://img.shields.io/badge/github-study-orange"></img>
+    <img src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86"></img>
     <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
         <img alt="知识共享许可协议" style="border-width:0" height="21" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
     </a>
 </p>
 
 ---
-# Study-notes
 
+## 💖💛💙💚👩‍💻 大四学生的编程学习笔记 👨‍💻💝💗💜🖤
+*📒✍开源的目的仅有一个 : 真心希望自己的这些日常学习笔记，心得，项目能够帮助一些同学提高编程学习效率，该学习笔记与我的博客网站同步更新哟~ 注 : 本博客所有文章除特别声明外，均采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">`知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议`</a>进行许可 .*
 
+### 👨‍🎓 个人简介
+* *姓名 : merso*
+* *邮箱 : 14424643646@qq.com*
 ---
-* 自我介绍<br>
-* 我的博客：www.baudi.com<br>
-* 我的开源项目
+

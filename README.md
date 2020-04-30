@@ -16,9 +16,8 @@
     <a ref="hexo-theme" href="https://github.com/yscoder/hexo-theme-indigo">
         <img src="https://img.shields.io/badge/hexo%20theme-indigo-green"></img>
     </a>
-    <img src="https://img.shields.io/ansible/quality/Study-notes"></img>
+    <img src="https://img.shields.io/ansible/quality/markses/Study-notes"></img>
      <img src="https://img.shields.io/github/repo-size/markses/Study-notes"></img>
-    <img src="https://img.shields.io/github/followers/YUbuntu0109.svg"></img>
     <img src="https://img.shields.io/badge/github-study-orange"></img>
     <img src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86"></img>
     <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">

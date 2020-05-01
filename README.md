@@ -37,7 +37,7 @@
 
 ---
 
-### 📚📝 `JavaScript` 学习笔记  
+### 📕📗 `JavaScript` 学习笔记  
    * [正则表达式](https://github.com/markses/Study-notes/blob/master/JavaScript/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
    * [JavaScript基本知识点](https://github.com/markses/Study-notes/blob/master/JavaScript/JavaScript.md)
 
@@ -48,9 +48,9 @@
     * [Spring注解](https://github.com/markses/Study-notes/blob/master/spring/springboot/springboot.md)
     
 ---
-### 📚📝 `Vue` 学习笔记
+### 📓📔 `Vue` 学习笔记
 * [Vue组件](https://github.com/markses/Study-notes/blob/master/spring/springboot/springboot.md)
 * [VueX](https://github.com/markses/Study-notes/blob/master/spring/springboot/springboot.md)
 
 ---
-### 📚📝 项目中遇到的问题
+### 📙📚 项目中遇到的问题

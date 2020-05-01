@@ -8,8 +8,8 @@
     <a rel="travis-ci" href="">
 	    <img src="https://travis-ci.com/YUbuntu0109/YUbuntu0109.github.io.svg?branch=HexoBackup"></img>
     </a>
-    <a rel="gitter" href="https://gitter.im/Mutual-learning/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
-	    <img src="https://badges.gitter.im/Mutual-learning/community.svg"></img>
+   <!-- <a rel="gitter" href="https://gitter.im/Mutual-learning/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
+	    <img src="https://badges.gitter.im/Mutual-learning/community.svg"></img> -->
     </a>
     <img src="https://img.shields.io/github/commit-activity/m/YUbuntu0109/YUbuntu0109.github.io?color=ff69b4"></img>
     <!-- <img src="http://progressed.io/bar/15?title=progress"></img> -->
